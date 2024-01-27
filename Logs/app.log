@@ -1,0 +1,124 @@
+13:59:06.887 [main] INFO  ParaBank - Opened Application URL
+13:59:37.305 [main] INFO  ParaBank - all the urls are verified
+13:59:48.493 [main] INFO  ParaBank - Connection successful
+13:59:50.219 [main] INFO  ParaBank - Message sent successfully
+13:59:51.483 [main] INFO  ParaBank - Message sent successfully
+13:59:52.533 [main] INFO  ParaBank - Message sent successfully
+14:00:03.745 [main] ERROR ParaBank - Please fill the detailsno such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='A Customer Care Representative will be contacting you.']"}
+  (Session info: chrome=120.0.6099.227)
+14:00:16.000 [main] ERROR ParaBank - Please fill the detailsno such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='A Customer Care Representative will be contacting you.']"}
+  (Session info: chrome=120.0.6099.227)
+14:00:29.136 [main] ERROR ParaBank - Please fill the detailsno such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='A Customer Care Representative will be contacting you.']"}
+  (Session info: chrome=120.0.6099.227)
+14:00:41.779 [main] ERROR ParaBank - Please fill the detailsno such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='A Customer Care Representative will be contacting you.']"}
+  (Session info: chrome=120.0.6099.227)
+14:00:43.783 [main] INFO  ParaBank - Message sent successfully
+14:00:44.790 [main] INFO  ParaBank - Application closed 
+14:00:50.194 [main] INFO  ParaBank - Opened Application URL
+14:00:50.212 [main] INFO  ParaBank - Connection is Succesfull
+14:01:01.837 [main] INFO  ParaBank - Registration Successful
+14:01:14.200 [main] INFO  ParaBank - Please fill the details
+14:01:26.654 [main] INFO  ParaBank - Please fill the details
+14:01:39.273 [main] INFO  ParaBank - Please fill the details
+14:01:51.719 [main] INFO  ParaBank - Please fill the details
+14:02:04.231 [main] INFO  ParaBank - Please fill the details
+14:02:16.820 [main] INFO  ParaBank - Please fill the details
+14:02:29.257 [main] INFO  ParaBank - Please fill the details
+14:02:41.821 [main] INFO  ParaBank - Please fill the details
+14:02:54.399 [main] INFO  ParaBank - Please fill the details
+14:03:06.831 [main] INFO  ParaBank - Please fill the details
+14:03:19.284 [main] INFO  ParaBank - Please fill the details
+14:03:32.120 [main] INFO  ParaBank - Please fill the details
+14:03:54.182 [main] INFO  ParaBank - Application closed 
+14:03:59.588 [main] INFO  ParaBank - Opened Application URL
+14:03:59.622 [main] INFO  ParaBank - Connection Successful
+14:04:11.555 [main] ERROR ParaBank - Please fill details:no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Log Out']"}
+  (Session info: chrome=120.0.6099.227)
+14:04:23.579 [main] ERROR ParaBank - Please fill details:no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Log Out']"}
+  (Session info: chrome=120.0.6099.227)
+14:04:35.730 [main] ERROR ParaBank - Please fill details:no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Log Out']"}
+  (Session info: chrome=120.0.6099.227)
+14:04:47.507 [main] ERROR ParaBank - Please fill details:no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Log Out']"}
+  (Session info: chrome=120.0.6099.227)
+14:04:59.203 [main] ERROR ParaBank - Please fill details:no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Log Out']"}
+  (Session info: chrome=120.0.6099.227)
+14:05:10.492 [main] ERROR ParaBank - Please fill details:no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Log Out']"}
+  (Session info: chrome=120.0.6099.227)
+14:05:22.242 [main] ERROR ParaBank - Please fill details:no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Log Out']"}
+  (Session info: chrome=120.0.6099.227)
+14:05:36.040 [main] ERROR ParaBank - Please fill details:no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Log Out']"}
+  (Session info: chrome=120.0.6099.227)
+14:05:47.766 [main] ERROR ParaBank - Please fill details:no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Log Out']"}
+  (Session info: chrome=120.0.6099.227)
+14:05:58.903 [main] ERROR ParaBank - Please fill details:no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Log Out']"}
+  (Session info: chrome=120.0.6099.227)
+14:05:59.916 [main] INFO  ParaBank - Application closed 
+14:06:03.968 [main] INFO  ParaBank - Opened Application URL
+14:06:03.985 [main] INFO  ParaBank - Connection is successful
+14:06:05.834 [main] INFO  ParaBank - Registered successfull
+14:06:17.191 [main] ERROR ParaBank - Please fill details:no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Log Out']"}
+  (Session info: chrome=120.0.6099.227)
+14:06:50.439 [main] INFO  ParaBank - Application closed 
+14:06:59.381 [main] INFO  ParaBank - Opened Application URL
+14:07:03.087 [main] INFO  ParaBank - Clicked on OpenNewAcc button
+14:07:08.093 [main] INFO  ParaBank - In try block
+14:07:09.122 [main] INFO  ParaBank - Congratulations, your account is now open.
+14:07:10.517 [main] INFO  ParaBank - Clicked on clickAccNum
+14:07:15.535 [main] INFO  ParaBank - Account Opened
+14:07:57.454 [main] INFO  ParaBank - Checked All Transactions
+14:07:58.466 [main] INFO  ParaBank - Application closed 
+14:08:03.588 [main] INFO  ParaBank - Opened Application URL
+14:08:05.008 [main] INFO  ParaBank - Clicked on Account Overview
+14:08:15.064 [main] INFO  ParaBank - Account Details Succesfull completed
+14:08:17.085 [main] INFO  ParaBank - Application closed 
+14:08:21.960 [main] INFO  ParaBank - Opened Application URL
+14:08:23.059 [main] INFO  ParaBank - Connection is Successful
+14:08:28.702 [main] INFO  ParaBank - Successful Transaction
+14:08:34.292 [main] INFO  ParaBank - Successful Transaction
+14:08:35.671 [main] INFO  ParaBank - Invalid amount: -2
+14:08:41.399 [main] INFO  ParaBank - Successful Transaction
+14:08:42.411 [main] INFO  ParaBank - Application closed 
+14:08:46.025 [main] INFO  ParaBank - Opened Application URL
+14:08:47.149 [main] INFO  ParaBank - Connection Successful
+14:08:51.338 [main] INFO  ParaBank - Payment Successful
+14:08:55.612 [main] ERROR ParaBank - Amount is less than 0
+14:09:00.261 [main] ERROR ParaBank - Enter the details
+14:09:04.731 [main] ERROR ParaBank - Amount is less than 0
+14:09:10.128 [main] ERROR ParaBank - Amount is less than 0
+14:09:14.548 [main] ERROR ParaBank - Enter the details
+14:09:18.848 [main] ERROR ParaBank - Enter the details
+14:09:23.162 [main] ERROR ParaBank - Enter the details
+14:09:27.430 [main] ERROR ParaBank - Enter the details
+14:09:31.709 [main] ERROR ParaBank - Enter the details
+14:09:32.721 [main] INFO  ParaBank - Application closed 
+14:09:38.699 [main] INFO  ParaBank - Opened Application URL
+14:09:41.261 [main] INFO  ParaBank - Transactions are displayed
+14:09:42.708 [main] INFO  ParaBank - Transactions are displayed
+14:09:44.205 [main] INFO  ParaBank - Transactions are displayed
+14:09:45.676 [main] INFO  ParaBank - Transactions are displayed
+14:09:46.695 [main] INFO  ParaBank - Application closed 
+14:09:48.980 [main] INFO  ParaBank - Opened Application URL
+14:09:52.783 [main] INFO  ParaBank - Connection is Successful
+14:09:54.552 [main] INFO  ParaBank - Clicked on UpdateProfile button
+14:09:54.567 [main] INFO  ParaBank - Successfully Updated
+14:09:56.261 [main] INFO  ParaBank - Clicked on UpdateProfile button
+14:09:56.261 [main] INFO  ParaBank - Successfully Updated
+14:09:57.966 [main] INFO  ParaBank - Clicked on UpdateProfile button
+14:09:57.984 [main] INFO  ParaBank - Successfully Updated
+14:09:59.751 [main] INFO  ParaBank - Clicked on UpdateProfile button
+14:09:59.751 [main] INFO  ParaBank - Successfully Updated
+14:10:01.541 [main] INFO  ParaBank - Clicked on UpdateProfile button
+14:10:01.544 [main] INFO  ParaBank - Successfully Updated
+14:10:03.241 [main] INFO  ParaBank - Clicked on UpdateProfile button
+14:10:03.259 [main] INFO  ParaBank - Successfully Updated
+14:10:04.273 [main] INFO  ParaBank - Application closed 
+14:10:06.048 [main] INFO  ParaBank - Opened Application URL
+14:10:09.561 [main] INFO  ParaBank - Connection is Successful
+14:10:11.179 [main] INFO  ParaBank - Loan Request Approved
+14:10:12.579 [main] INFO  ParaBank - Opened the new Account details
+14:10:14.323 [main] ERROR ParaBank - Loan Request Denied
+14:10:16.050 [main] ERROR ParaBank - Loan Request Denied
+14:10:17.924 [main] ERROR ParaBank - Loan Request Denied
+14:10:19.658 [main] ERROR ParaBank - Loan Request Denied
+14:10:20.345 [main] INFO  ParaBank - Account Logged Out
+14:10:21.359 [main] INFO  ParaBank - Application closed 

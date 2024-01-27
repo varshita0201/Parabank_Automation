@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="bank.utilities.Reports"></listener>
+</listeners>
+  <test thread-count="1" name="Test">
+    <classes>
+     <class name="bank.testCases.HomeTest_001"/>
+      <class name="bank.testCases.RegistrationTest_002"></class>
+      <class name="bank.testCases.ForgotLoginTest_003"></class>
+      <class name="bank.testCases.CustomerLoginTest_004"></class>
+     <class name="bank.testCases.OpenNewAcc_005"></class>
+     	<class name="bank.testCases.AccountsOverviewTest_006"></class>
+     	<class name="bank.testCases.TransferFundsTest_007"></class>
+     	<class name="bank.testCases.BillPaymentTest_008"></class>
+     	<class name="bank.testCases.FindTransactions_009"></class>
+     	<class name="bank.testCases.UpdateProfileTest_010"></class>
+     	<class name="bank.testCases.RequestLoanTest_011"></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
